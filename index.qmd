@@ -3,7 +3,7 @@ from: markdown+emoji
 format:
   revealjs:
     logo: images/logo-affiliation.png
-    footer: "{{< fa brands github >}} &nbsp;[`rdatatoolbox/quarto-template`](https://github.com/rdatatoolbox/quarto-template) &nbsp; &bull; &nbsp; {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} &nbsp;[`cc-by-4.0`](https://creativecommons.org/licenses/by/4.0/deed.en)"
+    footer: "{{< fa brands github >}} &nbsp;[`frbcesab/training-summary`](https://github.com/frbcesab/training-summary) &nbsp; &bull; &nbsp; {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} &nbsp;[`cc-by-4.0`](https://creativecommons.org/licenses/by/4.0/deed.en)"
     smaller: true
     auto-stretch: false
     chalkboard: true
@@ -12,23 +12,8 @@ format:
 engine: knitr
 ---
 
-<!-- Insert section 'Title slide' -->
 
-```{r}
-#| child: "sections/title-slide.qmd"
-```
+{{< include sections/title-slide.qmd >}}
 
-
-<!-- Insert section 'Table of contents' -->
-
-```{r}
-#| child: "sections/table-of-contents.qmd"
-```
-
-
-<!-- Insert section 'Quarto basics' -->
-
-```{r}
-#| child: "sections/quarto-basics.qmd"
-```
+{{< include sections/main-slides.qmd >}}
 

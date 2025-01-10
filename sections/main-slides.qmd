@@ -1,0 +1,612 @@
+## 6 courses
+
+<br/>
+
+![](figures/courses-timeline.png){width=90% fig-align='center'}
+
+
+
+## Open access
+
+
+:::: {.columns}
+
+::: {.column .center width=33%}
+![](images/favicons/reproducibility.png){width=50%}
+
+::: {.small}
+{{< fa globe >}}&nbsp; <https://rdatatoolbox.github.io>
+:::
+
+:::
+
+::: {.column .center width=33%}
+![](images/favicons/theoretical-models.png){width=50%}
+
+::: {.small}
+{{< fa globe >}}&nbsp; <https://theodatasci.github.io>
+:::
+:::
+
+
+::: {.column .center width=33%}
+![](images/favicons/literature-synthesis.png){width=50%}
+
+::: {.small}
+{{< fa globe >}}&nbsp; <https://literaturesynthesis.github.io>
+:::
+:::
+
+::::
+
+
+<br/>
+
+:::: {.columns}
+
+::: {.column .center width=33%}
+![](images/favicons/network-analysis.png){width=50%}
+
+::: {.small}
+{{< fa globe >}}&nbsp; <https://econetoolbox.github.io>
+:::
+
+:::
+
+::: {.column .center width=33%}
+![](images/favicons/biodiversity-data.png){width=50%}
+
+::: {.small}
+{{< fa globe >}}&nbsp; <https://biodiversitydata.github.io>
+:::
+:::
+
+
+::: {.column .center width=33%}
+![](images/favicons/artificial-intelligence.png){width=50%}
+
+::: {.small}
+{{< fa globe >}}&nbsp; <https://ai-ecol.github.io>
+:::
+:::
+
+::::
+
+## 249 trainees
+
+<br/>
+
+![](figures/number_of_trainees-0.png){width=90% fig-align='center'}
+
+
+## 249 trainees
+
+<br/>
+
+![](figures/number_of_trainees-1.png){width=90% fig-align='center'}
+
+
+## 636 pre-registrations
+
+<br/>
+
+![](figures/number_of_registrations.png){width=90% fig-align='center'}
+
+
+
+## 59 speakers
+
+
+:::: {.columns}
+
+::: {.column width=20%}
+
+::: {.small}
+- Anne-Sophie Archambeau &nbsp; [&#9209;]{.color-data}
+- Sakina-Dorothée Ayata &nbsp; [&#9209;]{.color-ia}
+- Matthieu Barbier &nbsp; [&#9209;]{.color-theo}
+- Pierre Barbillon &nbsp; [&#9209;]{.color-net}
+- Frédéric Barraquand &nbsp; [&#9209;]{.color-theo}
+- Damien Beillouin &nbsp; [&#9209;]{.color-meta}
+- Léo Blondel &nbsp; [&#9209;]{.color-ia}
+- Jonathan Bonfanti &nbsp; [&#9209;]{.color-meta}
+- Iago Bonnici &nbsp; [&#9209;]{.color-git}
+- Benjamin Bourel &nbsp; [&#9209;]{.color-ia}
+- Vincent Calcagno &nbsp; [&#9209;]{.color-theo}
+- Sylvie Campagne &nbsp; [&#9209;]{.color-meta}
+- Jérémy Carlot &nbsp; [&#9209;]{.color-meta}
+- Nicolas Casajus &nbsp; [&#9209;]{.color-git} [&#9209;]{.color-data} [&#9209;]{.color-meta}
+- Julien Chiquet &nbsp; [&#9209;]{.color-net}
+- Camille Coux &nbsp; [&#9209;]{.color-data}
+- Kim Cuddington &nbsp; [&#9209;]{.color-theo}
+- Jhelam Deshpande &nbsp; [&#9209;]{.color-theo}
+- Sophie Donnet &nbsp; [&#9209;]{.color-net}
+- Stéphane Dray &nbsp; [&#9209;]{.color-git}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- Maxime Dubart &nbsp; [&#9209;]{.color-theo}
+- Colin Fontaine &nbsp; [&#9209;]{.color-net}
+- Claire Fortunel &nbsp; [&#9209;]{.color-data}
+- Emanuel Fronhofer &nbsp; [&#9209;]{.color-theo}
+- Olivier Gimenez &nbsp; [&#9209;]{.color-git}
+- Frédéric Gosselin &nbsp; [&#9209;]{.color-meta}
+- Isabelle Gounand &nbsp; [&#9209;]{.color-theo}
+- Loreleï Guéry &nbsp; [&#9209;]{.color-git}
+- François Guilhaumon &nbsp; [&#9209;]{.color-git}
+- Claire Jacquet &nbsp; [&#9209;]{.color-theo}
+- Dimitri Justeau-Allaire &nbsp; [&#9209;]{.color-ia}
+- Peter Kamal &nbsp; [&#9209;]{.color-theo}
+- Sonia Kéfi &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
+- Joseph Langridge &nbsp; [&#9209;]{.color-meta}
+- Yvan Le Bras &nbsp; [&#9209;]{.color-data}
+- Nicolas Loiseau &nbsp; [&#9209;]{.color-data}
+- Davide Martinetti &nbsp; [&#9209;]{.color-theo}
+- François Massol &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
+- Catherine Matias &nbsp; [&#9209;]{.color-net}
+- Olivier Norvez &nbsp; [&#9209;]{.color-data}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- Brunno F. Oliveira &nbsp; [&#9209;]{.color-git}
+- Sarah Ouadah &nbsp; [&#9209;]{.color-net}
+- Dakis-Yaoba Ouedraogo &nbsp; [&#9209;]{.color-meta}
+- Sophie Pamerlon &nbsp; [&#9209;]{.color-data}
+- Cathleen Petit &nbsp; [&#9209;]{.color-meta}
+- Quentin Petitjean &nbsp; [&#9209;]{.color-theo}
+- Virginie Ravigné &nbsp; [&#9209;]{.color-theo}
+- Agnès Robin &nbsp; [&#9209;]{.color-data}
+- Stéphane Robin &nbsp; [&#9209;]{.color-net}
+- Benjamin Rosenbaum &nbsp; [&#9209;]{.color-theo}
+- Camille Saade &nbsp; [&#9209;]{.color-theo}
+- Nina Schiettekatte &nbsp; [&#9209;]{.color-git}
+- Maximillien Servajean &nbsp; [&#9209;]{.color-ia}
+- Aurélie Siberchicot &nbsp; [&#9209;]{.color-git}
+- Romain Sordello &nbsp; [&#9209;]{.color-meta}
+- Léa Terray &nbsp; [&#9209;]{.color-meta}
+- Elisa Thébault &nbsp; [&#9209;]{.color-net}
+- Paul Tresson &nbsp; [&#9209;]{.color-ia}
+- Devi Veytia &nbsp; [&#9209;]{.color-meta}
+:::
+:::
+
+::::
+
+:::: {.columns}
+::: {.column width=50%}
+:::
+
+::: {.column .right width=50%}
+:::
+
+::::
+
+
+
+## 59 speakers
+
+
+:::: {.columns}
+
+::: {.column width=20%}
+
+::: {.small}
+- [Anne-Sophie Archambeau]{.white}
+- [Sakina-Dorothée Ayata]{.white}
+- [Matthieu Barbier]{.white}
+- [Pierre Barbillon]{.white}
+- [Frédéric Barraquand]{.white}
+- [Damien Beillouin]{.white}
+- [Léo Blondel]{.white}
+- [Jonathan Bonfanti]{.white}
+- [Iago Bonnici]{.white}
+- [Benjamin Bourel]{.white}
+- [Vincent Calcagno]{.white}
+- [Sylvie Campagne]{.white}
+- [Jérémy Carlot]{.white}
+- [Nicolas Casajus]{.white}
+- [Julien Chiquet]{.white}
+- [Camille Coux]{.white}
+- [Kim Cuddington]{.white}
+- [Jhelam Deshpande]{.white}
+- [Sophie Donnet]{.white}
+- Stéphane Dray &nbsp; [&#9209;]{.color-git}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- [Maxime Dubart]{.white}
+- [Colin Fontaine]{.white}
+- [Claire Fortunel]{.white}
+- [Emanuel Fronhofer]{.white}
+- [Olivier Gimenez]{.white}
+- [Frédéric Gosselin]{.white}
+- [Isabelle Gounand]{.white}
+- [Loreleï Guéry]{.white}
+- [François Guilhaumon]{.white}
+- [Claire Jacquet]{.white}
+- [Dimitri Justeau-Allaire]{.white}
+- [Peter Kamal]{.white}
+- [Sonia Kéfi]{.white}
+- [Joseph Langridge]{.white}
+- [Yvan Le Bras]{.white}
+- [Nicolas Loiseau]{.white}
+- [Davide Martinetti]{.white}
+- François Massol &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
+- [Catherine Matias]{.white}
+- [Olivier Norvez]{.white}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- [Brunno F. Oliveira]{.white}
+- [Sarah Ouadah]{.white}
+- [Dakis-Yaoba Ouedraogo]{.white}
+- [Sophie Pamerlon]{.white}
+- [Cathleen Petit]{.white}
+- [Quentin Petitjean]{.white}
+- [Virginie Ravigné]{.white}
+- [Agnès Robin]{.white}
+- [Stéphane Robin]{.white}
+- [Benjamin Rosenbaum]{.white}
+- [Camille Saade]{.white}
+- [Nina Schiettekatte]{.white}
+- [Maximillien Servajean]{.white}
+- [Aurélie Siberchicot]{.white}
+- [Romain Sordello]{.white}
+- [Léa Terray]{.white}
+- Elisa Thébault &nbsp; [&#9209;]{.color-net}
+- [Paul Tresson]{.white}
+- [Devi Veytia]{.white}
+:::
+:::
+
+::::
+
+:::: {.columns}
+::: {.column width=50%}
+{{< fa hand-point-right >}}&nbsp; **CS CESAB members**
+:::
+
+::: {.column .right width=50%}
+:::
+
+::::
+
+
+
+## 59 speakers
+
+
+:::: {.columns}
+
+::: {.column width=20%}
+
+::: {.small}
+- [Anne-Sophie Archambeau]{.white}
+- [Sakina-Dorothée Ayata]{.white}
+- [Matthieu Barbier]{.white}
+- [Pierre Barbillon]{.white}
+- [Frédéric Barraquand]{.white}
+- [Damien Beillouin]{.white}
+- [Léo Blondel]{.white}
+- Jonathan Bonfanti &nbsp; [&#9209;]{.color-meta}
+- [Iago Bonnici]{.white}
+- [Benjamin Bourel]{.white}
+- [Vincent Calcagno]{.white}
+- Sylvie Campagne &nbsp; [&#9209;]{.color-meta}
+- Jérémy Carlot &nbsp; [&#9209;]{.color-meta}
+- Nicolas Casajus &nbsp; [&#9209;]{.color-git} [&#9209;]{.color-data} [&#9209;]{.color-meta}
+- [Julien Chiquet]{.white}
+- Camille Coux &nbsp; [&#9209;]{.color-data}
+- [Kim Cuddington]{.white}
+- [Jhelam Deshpande]{.white}
+- [Sophie Donnet]{.white}
+- [Stéphane Dray]{.white}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- [Maxime Dubart]{.white}
+- [Colin Fontaine]{.white}
+- [Claire Fortunel]{.white}
+- [Emanuel Fronhofer]{.white}
+- [Olivier Gimenez]{.white}
+- [Frédéric Gosselin]{.white}
+- [Isabelle Gounand]{.white}
+- [Loreleï Guéry]{.white}
+- [François Guilhaumon]{.white}
+- [Claire Jacquet]{.white}
+- [Dimitri Justeau-Allaire]{.white}
+- [Peter Kamal]{.white}
+- [Sonia Kéfi]{.white}
+- Joseph Langridge &nbsp; [&#9209;]{.color-meta}
+- [Yvan Le Bras]{.white}
+- [Nicolas Loiseau]{.white}
+- [Davide Martinetti]{.white}
+- [François Massol]{.white}
+- [Catherine Matias]{.white}
+- Olivier Norvez &nbsp; [&#9209;]{.color-data}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- Brunno F. Oliveira &nbsp; [&#9209;]{.color-git}
+- [Sarah Ouadah]{.white}
+- [Dakis-Yaoba Ouedraogo]{.white}
+- [Sophie Pamerlon]{.white}
+- Cathleen Petit &nbsp; [&#9209;]{.color-meta}
+- [Quentin Petitjean]{.white}
+- [Virginie Ravigné]{.white}
+- [Agnès Robin]{.white}
+- [Stéphane Robin]{.white}
+- [Benjamin Rosenbaum]{.white}
+- [Camille Saade]{.white}
+- [Nina Schiettekatte]{.white}
+- [Maximillien Servajean]{.white}
+- [Aurélie Siberchicot]{.white}
+- [Romain Sordello]{.white}
+- [Léa Terray]{.white}
+- [Elisa Thébault]{.white}
+- [Paul Tresson]{.white}
+- Devi Veytia &nbsp; [&#9209;]{.color-meta}
+:::
+:::
+
+::::
+
+:::: {.columns}
+::: {.column width=50%}
+{{< fa hand-point-right >}}&nbsp; **FRB employees**
+:::
+
+::: {.column .right width=50%}
+:::
+
+::::
+
+
+
+## 59 speakers
+
+
+:::: {.columns}
+
+::: {.column width=20%}
+
+::: {.small}
+- [Anne-Sophie Archambeau]{.white}
+- [Sakina-Dorothée Ayata]{.white}
+- Matthieu Barbier &nbsp; [&#9209;]{.color-theo}
+- [Pierre Barbillon]{.white}
+- [Frédéric Barraquand]{.white}
+- Damien Beillouin &nbsp; [&#9209;]{.color-meta}
+- [Léo Blondel]{.white}
+- Jonathan Bonfanti &nbsp; [&#9209;]{.color-meta}
+- [Iago Bonnici]{.white}
+- [Benjamin Bourel]{.white}
+- [Vincent Calcagno]{.white}
+- Sylvie Campagne &nbsp; [&#9209;]{.color-meta}
+- Jérémy Carlot &nbsp; [&#9209;]{.color-meta}
+- [Nicolas Casajus]{.white}
+- [Julien Chiquet]{.white}
+- [Camille Coux]{.white}
+- [Kim Cuddington]{.white}
+- [Jhelam Deshpande]{.white}
+- [Sophie Donnet]{.white}
+- [Stéphane Dray]{.white}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- [Maxime Dubart]{.white}
+- Colin Fontaine &nbsp; [&#9209;]{.color-net}
+- Claire Fortunel &nbsp; [&#9209;]{.color-data}
+- Emanuel Fronhofer &nbsp; [&#9209;]{.color-theo}
+- Olivier Gimenez &nbsp; [&#9209;]{.color-git}
+- Frédéric Gosselin &nbsp; [&#9209;]{.color-meta}
+- Isabelle Gounand &nbsp; [&#9209;]{.color-theo}
+- [Loreleï Guéry]{.white}
+- François Guilhaumon &nbsp; [&#9209;]{.color-git}
+- [Claire Jacquet]{.white}
+- [Dimitri Justeau-Allaire]{.white}
+- [Peter Kamal]{.white}
+- Sonia Kéfi &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
+- [Joseph Langridge]{.white}
+- [Yvan Le Bras]{.white}
+- Nicolas Loiseau &nbsp; [&#9209;]{.color-data}
+- [Davide Martinetti]{.white}
+- François Massol &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
+- [Catherine Matias]{.white}
+- [Olivier Norvez]{.white}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- Brunno F. Oliveira &nbsp; [&#9209;]{.color-git}
+- [Sarah Ouadah]{.white}
+- [Dakis-Yaoba Ouedraogo]{.white}
+- [Sophie Pamerlon]{.white}
+- Cathleen Petit &nbsp; [&#9209;]{.color-meta}
+- [Quentin Petitjean]{.white}
+- [Virginie Ravigné]{.white}
+- [Agnès Robin]{.white}
+- [Stéphane Robin]{.white}
+- [Benjamin Rosenbaum]{.white}
+- Camille Saade &nbsp; [&#9209;]{.color-theo}
+- Nina Schiettekatte &nbsp; [&#9209;]{.color-git}
+- [Maximillien Servajean]{.white}
+- [Aurélie Siberchicot]{.white}
+- [Romain Sordello]{.white}
+- [Léa Terray]{.white}
+- [Elisa Thébault]{.white}
+- [Paul Tresson]{.white}
+- Devi Veytia &nbsp; [&#9209;]{.color-meta}
+:::
+:::
+
+::::
+
+:::: {.columns}
+::: {.column width=50%}
+{{< fa hand-point-right >}}&nbsp; **CESAB members**
+:::
+
+::: {.column .right width=50%}
+:::
+
+::::
+
+## 59 speakers
+
+
+:::: {.columns}
+
+::: {.column width=20%}
+
+::: {.small}
+- Anne-Sophie Archambeau &nbsp; [&#9209;]{.color-data}
+- Sakina-Dorothée Ayata &nbsp; [&#9209;]{.color-ia}
+- Matthieu Barbier &nbsp; [&#9209;]{.color-theo}
+- Pierre Barbillon &nbsp; [&#9209;]{.color-net}
+- Frédéric Barraquand &nbsp; [&#9209;]{.color-theo}
+- Damien Beillouin &nbsp; [&#9209;]{.color-meta}
+- Léo Blondel &nbsp; [&#9209;]{.color-ia}
+- Jonathan Bonfanti &nbsp; [&#9209;]{.color-meta}
+- Iago Bonnici &nbsp; [&#9209;]{.color-git}
+- Benjamin Bourel &nbsp; [&#9209;]{.color-ia}
+- Vincent Calcagno &nbsp; [&#9209;]{.color-theo}
+- Sylvie Campagne &nbsp; [&#9209;]{.color-meta}
+- Jérémy Carlot &nbsp; [&#9209;]{.color-meta}
+- Nicolas Casajus &nbsp; [&#9209;]{.color-git} [&#9209;]{.color-data} [&#9209;]{.color-meta}
+- Julien Chiquet &nbsp; [&#9209;]{.color-net}
+- Camille Coux &nbsp; [&#9209;]{.color-data}
+- Kim Cuddington &nbsp; [&#9209;]{.color-theo}
+- Jhelam Deshpande &nbsp; [&#9209;]{.color-theo}
+- Sophie Donnet &nbsp; [&#9209;]{.color-net}
+- Stéphane Dray &nbsp; [&#9209;]{.color-git}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- Maxime Dubart &nbsp; [&#9209;]{.color-theo}
+- Colin Fontaine &nbsp; [&#9209;]{.color-net}
+- Claire Fortunel &nbsp; [&#9209;]{.color-data}
+- Emanuel Fronhofer &nbsp; [&#9209;]{.color-theo}
+- Olivier Gimenez &nbsp; [&#9209;]{.color-git}
+- Frédéric Gosselin &nbsp; [&#9209;]{.color-meta}
+- Isabelle Gounand &nbsp; [&#9209;]{.color-theo}
+- Loreleï Guéry &nbsp; [&#9209;]{.color-git}
+- François Guilhaumon &nbsp; [&#9209;]{.color-git}
+- Claire Jacquet &nbsp; [&#9209;]{.color-theo}
+- Dimitri Justeau-Allaire &nbsp; [&#9209;]{.color-ia}
+- Peter Kamal &nbsp; [&#9209;]{.color-theo}
+- Sonia Kéfi &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
+- Joseph Langridge &nbsp; [&#9209;]{.color-meta}
+- Yvan Le Bras &nbsp; [&#9209;]{.color-data}
+- Nicolas Loiseau &nbsp; [&#9209;]{.color-data}
+- Davide Martinetti &nbsp; [&#9209;]{.color-theo}
+- François Massol &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
+- Catherine Matias &nbsp; [&#9209;]{.color-net}
+- Olivier Norvez &nbsp; [&#9209;]{.color-data}
+:::
+:::
+
+::: {.column width=20%}
+:::
+
+::: {.column width=20%}
+::: {.small}
+- Brunno F. Oliveira &nbsp; [&#9209;]{.color-git}
+- Sarah Ouadah &nbsp; [&#9209;]{.color-net}
+- Dakis-Yaoba Ouedraogo &nbsp; [&#9209;]{.color-meta}
+- Sophie Pamerlon &nbsp; [&#9209;]{.color-data}
+- Cathleen Petit &nbsp; [&#9209;]{.color-meta}
+- Quentin Petitjean &nbsp; [&#9209;]{.color-theo}
+- Virginie Ravigné &nbsp; [&#9209;]{.color-theo}
+- Agnès Robin &nbsp; [&#9209;]{.color-data}
+- Stéphane Robin &nbsp; [&#9209;]{.color-net}
+- Benjamin Rosenbaum &nbsp; [&#9209;]{.color-theo}
+- Camille Saade &nbsp; [&#9209;]{.color-theo}
+- Nina Schiettekatte &nbsp; [&#9209;]{.color-git}
+- Maximillien Servajean &nbsp; [&#9209;]{.color-ia}
+- Aurélie Siberchicot &nbsp; [&#9209;]{.color-git}
+- Romain Sordello &nbsp; [&#9209;]{.color-meta}
+- Léa Terray &nbsp; [&#9209;]{.color-meta}
+- Elisa Thébault &nbsp; [&#9209;]{.color-net}
+- Paul Tresson &nbsp; [&#9209;]{.color-ia}
+- Devi Veytia &nbsp; [&#9209;]{.color-meta}
+:::
+:::
+
+::::
+
+:::: {.columns}
+::: {.column width=50%}
+:::
+
+::: {.column .right width=50%}
+**Thank you very much :heart:**
+:::
+
+::::
+
+
+## Special thanks to
+
+<br/>
+
+![](figures/special-thanks.png){width=50% fig-align='center'}
+
+
+
+<!-- 
+
+## Average budget
+
+<br/>
+
+
+![](figures/course_costs.png){width=90% fig-align='center'}
+
+-->
+
+

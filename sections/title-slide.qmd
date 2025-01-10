@@ -11,11 +11,11 @@
 ::: {.column .information width="68%"}
 
 ::: {.title}
-Quarto template
+FRB-CESAB Courses
 :::
 
 ::: {.subtitle}
-HTML presentation w/ RevealJS framework
+Summary of the training program of the FRB-CESAB
 :::
 
 ::: {.date}

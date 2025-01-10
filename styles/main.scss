@@ -175,5 +175,46 @@ blockquote p {
 }
 
 .small {
-  font-size: .8em;
+  font-size: .75em;
+}
+
+.color-data {
+  color: #5a4e41;
+  font-size: 0.8em;
+}
+
+.color-ia {
+  color: #93c47d;
+  font-size: 0.8em;
+}
+
+.color-theo {
+  color: #2e86c1;
+  font-size: 0.8em;
+}
+
+.color-meta {
+  color: #c23438;
+  font-size: 0.8em;
+}
+
+.color-git {
+  color: #7d3c98;
+  font-size: 0.8em;
+}
+
+.color-net {
+  color: #cb9a4d;
+  font-size: 0.8em;
+}
+
+.white {
+  color: #ffffff;
+}
+
+li:has(.white)::marker {
+  color: #ffffff;
+}
+.right {
+  text-align: right;
 }

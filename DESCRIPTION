@@ -1,0 +1,29 @@
+Package: training-summary
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Nicolas",
+           family  = "Casajus",
+           role    = c("aut", "cre", "cph"),
+           email   = "rdev.nc@gmail.com",
+           comment = c(ORCID = "0000-0002-5537-5294")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/ahasverus/training-summary
+BugReports: https://github.com/ahasverus/training-summary/issues
+License: CC-BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    devtools,
+    dplyr,
+    graphics,
+    gsheet,
+    here,
+    jpeg,
+    knitr,
+    png,
+    readxl,
+    rmarkdown
