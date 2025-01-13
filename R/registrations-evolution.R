@@ -52,22 +52,26 @@ registrations_evolution <- function() {
                                        paste0(colnames(students)[i], ".png")))
     
     if (i == 2) {
-      add_image(image = favicon, x = 2024, y = 21, size = 4)
+      add_image(image = favicon, x = 2025, y = 63, size = 4)
     }
     
     if (i == 3) {
-      add_image(image = favicon, x = 2022, y = 23, size = 4)
+      add_image(image = favicon, x = 2024, y = 21, size = 4)
     }
     
     if (i == 4) {
-      add_image(image = favicon, x = 2025, y = 41, size = 4)
+      add_image(image = favicon, x = 2022, y = 23, size = 4)
     }
     
     if (i == 5) {
-      add_image(image = favicon, x = 2019, y = 14, size = 4)
+      add_image(image = favicon, x = 2025, y = 41, size = 4)
     }
     
     if (i == 6) {
+      add_image(image = favicon, x = 2019, y = 14, size = 4)
+    }
+    
+    if (i == 7) {
       add_image(image = favicon, x = 2022, y = 58, size = 4)
     }
   }

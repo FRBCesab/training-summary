@@ -5,6 +5,37 @@
 ![](figures/courses-timeline.png){width=90% fig-align='center'}
 
 
+## Organization
+
+<br/>
+
+![](figures/planning.png){width=50% fig-align='center'}
+
+<br/>
+
+:::: {.columns}
+
+::: {.column width=33% .center}
+{{< fa person-chalkboard size=2x >}}
+<br>
+**Lectures & Exercises**
+<br>
+3.5 days
+:::
+
+::: {.column width=33% .center}
+:::
+
+::: {.column width=33% .center}
+{{< fa users size=2x >}}
+<br>
+**Sub-group projects**
+<br>
+1.5 days
+:::
+
+::::
+
 
 ## Open access
 
@@ -86,7 +117,7 @@
 ![](figures/number_of_trainees-1.png){width=90% fig-align='center'}
 
 
-## 636 pre-registrations
+## 692 pre-registrations
 
 <br/>
 

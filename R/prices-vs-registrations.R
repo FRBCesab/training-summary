@@ -41,7 +41,7 @@ prices_vs_registrations <- function() {
     
     geom_point(aes(x = price, y = n_registration), size = 2) +
     geom_smooth(aes(x = price, y = n_registration), method = "lm") +
-    facet_wrap(vars(course)) +
+    # facet_wrap(vars(course)) +
     theme_bw() +
     theme(axis.title = element_text(face = "bold")) +
     xlab("Prix d'inscription") +
