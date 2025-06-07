@@ -12,6 +12,12 @@ format:
 engine: knitr
 ---
 
+```{r}
+#| echo: false
+#| message: false
+
+devtools::load_all()
+```
 
 {{< include sections/title-slide.qmd >}}
 

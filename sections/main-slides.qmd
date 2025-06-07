@@ -1,4 +1,4 @@
-## 6 courses
+## Catalog
 
 <br/>
 
@@ -20,7 +20,7 @@
 <br>
 **Lectures & Exercises**
 <br>
-3.5 days
+4 days
 :::
 
 ::: {.column width=33% .center}
@@ -31,7 +31,7 @@
 <br>
 **Sub-group projects**
 <br>
-1.5 days
+1 day
 :::
 
 ::::
@@ -103,21 +103,21 @@
 
 ::::
 
-## 249 trainees
+## `r n_of_students()` trained students
 
 <br/>
 
 ![](figures/number_of_trainees-0.png){width=90% fig-align='center'}
 
 
-## 249 trainees
+## `r n_of_students()` trained students
 
 <br/>
 
 ![](figures/number_of_trainees-1.png){width=90% fig-align='center'}
 
 
-## 692 pre-registrations
+## `r n_of_preregistrations()` pre-registrations
 
 <br/>
 
