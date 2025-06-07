@@ -16,7 +16,7 @@ engine: knitr
 #| echo: false
 #| message: false
 
-devtools::load_all()
+pkgload::load_all()
 ```
 
 {{< include sections/title-slide.qmd >}}

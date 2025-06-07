@@ -18,13 +18,14 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Depends: ggplot2
 Imports: 
-    devtools,
     dplyr,
     graphics,
     gsheet,
     here,
     jpeg,
     knitr,
+    pkgload,
     png,
     readxl,
+    remotes,
     rmarkdown

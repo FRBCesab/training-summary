@@ -10,12 +10,12 @@
 
 ## Install Dependencies (listed in DESCRIPTION) ----
 
-devtools::install_deps(upgrade = "never")
+remotes::install_deps(upgrade = "never")
 
 
 ## Load Project Addins (R Functions and Packages) ----
 
-devtools::load_all(here::here())
+pkgload::load_all()
 
 
 ## Update figures ----
