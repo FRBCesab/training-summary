@@ -27,6 +27,7 @@ jobs:
           cache-version: 2
           packages: |
             any::rmarkdown
+            any::devtools
             
       - name: Render qmd files
         run: |
