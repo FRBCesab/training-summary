@@ -16,7 +16,8 @@ engine: knitr
 #| echo: false
 #| message: false
 
-pkgload::load_all()
+source("R/n_of_preregistrations.R")
+source("R/n_of_students.R")
 ```
 
 {{< include sections/title-slide.qmd >}}
