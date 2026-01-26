@@ -26,3 +26,5 @@ students_evolution(FALSE)
 registrations_evolution()
 course_costs()
 prices_vs_registrations()
+
+quarto::quarto_render("index.qmd")
