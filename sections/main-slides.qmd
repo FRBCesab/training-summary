@@ -513,7 +513,7 @@
 
 
 
-## `r n_of_preregistrations()` pre-registrations
+## `r n_of_preregistrations()` préinscriptions depuis 2019
 
 <br/>
 
