@@ -15,3 +15,18 @@ n_of_students <- function() {
 
   nrow(y)
 }
+
+n_of_speakers <- function() {
+  gsheet_url <- paste0(
+    "https://docs.google.com/spreadsheets/d/",
+    "1flVFi9SEY8kXXG125jTeh8mR0FWyf34_9ckzZ3nzKEs/edit?",
+    "gid=335089110#gid=335089110"
+  )
+
+  x <- gsheet::gsheet2tbl(gsheet_url) |>
+    as.data.frame()
+
+  colnames(x) <- tolower(colnames(x))
+
+  length(x[!duplicated(x$fullname), "fullname"])
+}

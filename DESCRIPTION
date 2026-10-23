@@ -28,4 +28,5 @@ Imports:
     png,
     readxl,
     remotes,
-    rmarkdown
+    rmarkdown,
+    tools

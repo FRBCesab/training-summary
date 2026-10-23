@@ -49,7 +49,7 @@ courses_timeline <- function() {
   
   grid(lwd = 0.5)
   box()
-  axis(1, lwd.ticks = 0, cex.axis = 1.2)
+  axis(1, at = seq(2019, x_range[2], by = 1), lwd.ticks = 0, cex.axis = 1.2)
   
   for (i in 1:nrow(extent)) {
     

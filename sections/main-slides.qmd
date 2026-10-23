@@ -1,120 +1,516 @@
-## Catalog
+## Une formation au Cesab, c'est...
+
+<br><br><br><br>
+
+:::: {.columns}
+
+::: {.column .center width=20%}
+[{{< fa user-tie size=2xl >}}]{style="color: #5a4e41;"}
+
+::: {.small}
+<br>
+**Un·e coordinateur·rice**
+:::
+:::
+
+::: {.column .center width=20%}
+[{{< fa calendar-days size=2xl >}}]{style="color: #93c47d;"}
+
+::: {.small}
+<br>
+**1 session par an<br>6 mois de préparation**
+:::
+:::
+
+::: {.column .center width=20%}
+[{{< fa people-group size=2xl >}}]{style="color: #c23438;"}
+
+::: {.small}
+<br>
+**Forte mobilisation<br>de l'équipe**
+:::
+:::
+
+
+::: {.column .center width=20%}
+[{{< fa network-wired size=2xl >}}]{style="color: #2e86c1;"}
+
+::: {.small}
+<br>
+**Intervenant·e·s parmi réseau du Cesab**
+:::
+:::
+
+::: {.column .center width=20%}
+[{{< fa list-check size=2xl >}}]{style="color: #7d3c98;"}
+
+::: {.small}
+<br>
+**Sélection des candidat·e·s**
+:::
+:::
+
+::::
+
+
+
+<br><br><br>
+
+
+:::: {.columns}
+
+::: {.column .center width=20%}
+[{{< fa calendar-check size=2xl >}}]{style="color: #7d3c98;"}
+
+::: {.small}
+<br>
+**5 jours de formation**
+:::
+:::
+
+::: {.column .center width=20%}
+[{{< fa euro-sign size=2xl >}}]{style="color: #5a4e41;"}
+
+::: {.small}
+<br>
+**250€ la formation<br>+ bourses**
+:::
+:::
+
+::: {.column .center width=20%}
+[{{< fa school size=2xl >}}]{style="color: #2e86c1;"}
+
+::: {.small}
+<br>
+**Salle de cours dédiée**
+:::
+:::
+
+::: {.column .center width=20%}
+[{{< fa people-roof size=2xl >}}]{style="color: #93c47d;"}
+
+::: {.small}
+<br>
+**20 participant·e·s**
+:::
+:::
+
+
+::: {.column .center width=20%}
+[{{< fa award size=2xl >}}]{style="color: #c23438;"}
+
+::: {.small}
+<br>
+**Attestation de participation**
+:::
+:::
+
+::::
+
+
+## Les formations au fil des années
 
 <br/>
 
 ![](figures/courses-timeline.png){width=90% fig-align='center'}
 
 
-## Organization
+<!-- repro -->
 
-<br/>
-
-![](figures/planning.png){width=50% fig-align='center'}
-
-<br/>
+## Catalogue (1 / 6)
 
 :::: {.columns}
 
-::: {.column width=33% .center}
-{{< fa person-chalkboard size=2x >}}
-<br>
-**Lectures & Exercises**
-<br>
-4 days
+::: {.column width=45%}
+![](images/favicons/reproducibility.png){width=30%}
 :::
 
-::: {.column width=33% .center}
+::: {.column width=10%}
 :::
 
-::: {.column width=33% .center}
-{{< fa users size=2x >}}
+::: {.column width=45%}
+:::
+
+::::
+
+<!-- row -->
+
+:::: {.columns}
+
+::: {.column width=45%}
+::: {.small}
+**Recherche reproductible en écologie numérique** &nbsp; [{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/se-perfectionner/bonnes-pratiques-pour-une-recherche-reproductible-en-ecologie-numerique/)
+
+**`#git`** &nbsp; **`#github`** &nbsp; **`#r-package`** &nbsp; **`#rmarkdown`** &nbsp; **`#quarto`** &nbsp; **`#docker`**
+
 <br>
-**Sub-group projects**
-<br>
-1 day
+
+- Coordinateur : **Nicolas Casajus**
+- Date de création : **2019**
+- Langue : **Français**
+- Intervenant·e·s : **9** (total)
+- Partenaires : **GDR Ecostat**, **UMR Entropie**, **ISEM**, **MBB** & **LBBE**
+- Contenu disponible sur &nbsp; [{{< fa brands github >}}](https://rdatatoolbox.github.io)
+:::
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
 :::
 
 ::::
 
 
-## Open access
+<!-- models -->
 
+
+## Catalogue (2 / 6)
 
 :::: {.columns}
 
-::: {.column .center width=33%}
-![](images/favicons/reproducibility.png){width=50%}
+::: {.column width=45%}
+![](images/favicons/reproducibility.png){width=30%}
+:::
 
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+![](images/favicons/theoretical-models.png){width=30%}
+:::
+
+::::
+
+<!-- row -->
+
+:::: {.columns}
+
+::: {.column width=45%}
 ::: {.small}
-{{< fa globe >}}&nbsp; <https://rdatatoolbox.github.io>
+**Recherche reproductible en écologie numérique** &nbsp; [{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/se-perfectionner/bonnes-pratiques-pour-une-recherche-reproductible-en-ecologie-numerique/)
+
+**`#git`** &nbsp; **`#github`** &nbsp; **`#r-package`** &nbsp; **`#rmarkdown`** &nbsp; **`#quarto`** &nbsp; **`#docker`**
+
+<br>
+
+- Coordinateur : **Nicolas Casajus**
+- Date de création : **2019**
+- Langue : **Français**
+- Intervenant·e·s : **9** (total)
+- Partenaires : **GDR Ecostat**, **UMR Entropie**, **ISEM**, **MBB** & **LBBE**
+- Contenu disponible sur &nbsp; [{{< fa brands github >}}](https://rdatatoolbox.github.io)
+:::
 :::
 
+::: {.column width=10%}
 :::
 
-::: {.column .center width=33%}
-![](images/favicons/theoretical-models.png){width=50%}
-
+::: {.column width=45%}
 ::: {.small}
-{{< fa globe >}}&nbsp; <https://theodatasci.github.io>
+**Analyse théorique des données écologiques** &nbsp; [{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/se-perfectionner/approche-theorique-pour-letude-de-la-biodiversite-lier-modeles-mathematiques-et-donnees/)
+
+
+**`#modele`** &nbsp; **`#dynamique-de-pop`** &nbsp; **`#spatial`** &nbsp; **`#bayesien`** &nbsp; **`#réseau`**
+
+<br>
+
+- Coordinateur : **Nicolas Casajus**
+- Date de création : **2022**
+- Langue : **Anglais**
+- Intervenant·e·s : **20** (total)
+- Partenaires : **GDR TheoMoDive**, **ISEM** & **PEPR Maths-Vives**
+- Contenu disponible sur &nbsp; [{{< fa brands github >}}](https://theodatasci.github.io)
 :::
 :::
 
+::::
 
-::: {.column .center width=33%}
-![](images/favicons/literature-synthesis.png){width=50%}
+<!-- rs -->
 
+
+## Catalogue (3 / 6)
+
+:::: {.columns}
+
+::: {.column width=45%}
+![](images/favicons/literature-synthesis.png){width=30%}
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+:::
+
+::::
+
+<!-- row -->
+
+:::: {.columns}
+
+::: {.column width=45%}
 ::: {.small}
-{{< fa globe >}}&nbsp; <https://literaturesynthesis.github.io>
+**Introduction aux méta-analyses et aux revues systématiques** &nbsp; [{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/se-perfectionner/la-synthese-des-connaissances-sur-la-biodiversite-introduction-aux-meta-analyses-et-revues-systematiques/)
+
+**`#protocol`** &nbsp; **`#searching`** &nbsp; **`#screening`** &nbsp; **`#extraction`** &nbsp; **`#effect-size`**
+
+<br>
+
+- Coordinateur : **Joseph Langridge**
+- Date de création : **2022**
+- Langue : **Français** & **Anglais**
+- Intervenant·e·s : **12** (total)
+- Partenaires : **Patrinat** & **Cirad Hortys**
+- Contenu disponible sur &nbsp; [{{< fa brands github >}}](https://literaturesynthesis.github.io)
+:::
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+:::
+
+::::
+
+
+
+<!-- networks -->
+
+
+## Catalogue (4 / 6)
+
+:::: {.columns}
+
+::: {.column width=45%}
+![](images/favicons/literature-synthesis.png){width=30%}
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+![](images/favicons/network-analysis.png){width=30%}
+:::
+
+::::
+
+<!-- row -->
+
+:::: {.columns}
+
+::: {.column width=45%}
+::: {.small}
+**Introduction aux méta-analyses et aux revues systématiques** &nbsp; [{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/se-perfectionner/la-synthese-des-connaissances-sur-la-biodiversite-introduction-aux-meta-analyses-et-revues-systematiques/)
+
+**`#protocol`** &nbsp; **`#searching`** &nbsp; **`#screening`** &nbsp; **`#extraction`** &nbsp; **`#effect-size`**
+
+<br>
+
+- Coordinateur : **Joseph Langridge**
+- Date de création : **2022**
+- Langue : **Français** & **Anglais**
+- Intervenant·e·s : **12** (total)
+- Partenaires : **Patrinat** & **Cirad Hortys**
+- Contenu disponible sur &nbsp; [{{< fa brands github >}}](https://literaturesynthesis.github.io)
+:::
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+::: {.small}
+**Analyse de réseaux d’interactions en écologie** &nbsp; [{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/se-perfectionner/analyse-de-reseaux-dinteractions-en-ecologie/)
+
+
+**`#modularite`** &nbsp; **`#nestedness`** &nbsp; **`#modele-generatif`** &nbsp; **`#multi-couche`**
+
+<br>
+
+- Coordinatrice : **Camille Coux**
+- Date de création : **2024**
+- Langue : **Anglais**
+- Intervenant·e·s : **5** (total)
+- Partenaires : **ANR Econet** & **PEPR Maths-Vives**
+- Contenu disponible sur &nbsp; [{{< fa brands github >}}](https://econetoolbox.github.io)
 :::
 :::
 
 ::::
 
 
-<br/>
+<!-- data -->
+
+
+## Catalogue (5 / 6)
 
 :::: {.columns}
 
-::: {.column .center width=33%}
-![](images/favicons/network-analysis.png){width=50%}
+::: {.column width=45%}
+![](images/favicons/biodiversity-data.png){width=30%}
+:::
 
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+:::
+
+::::
+
+<!-- row -->
+
+:::: {.columns}
+
+::: {.column width=45%}
 ::: {.small}
-{{< fa globe >}}&nbsp; <https://econetoolbox.github.io>
+**La donnée en biodiversité : de l’acquisition à l’ouverture** &nbsp; [{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/se-perfectionner/la_donnee_en_biodiversite/)
+
+**`#cycle-de-vie`** &nbsp; **`#fair-care`** &nbsp; **`#metadonnee`** &nbsp; **`#pgd`** &nbsp; **`#data-paper`**
+
+<br>
+
+- Coordinateur : **Nicolas Casajus**
+- Date de création : **2024**
+- Langue : **Français**
+- Intervenant·e·s : **10** (total)
+- Partenaires : **PNDB**, **GBIF France** & **DataShare**
+- Contenu disponible sur &nbsp; [{{< fa brands github >}}](https://biodiversitydata.github.io)
+:::
 :::
 
+::: {.column width=10%}
 :::
 
-::: {.column .center width=33%}
-![](images/favicons/biodiversity-data.png){width=50%}
+::: {.column width=45%}
+:::
 
+::::
+
+
+<!-- ia -->
+
+
+## Catalogue (6 / 6)
+
+:::: {.columns}
+
+::: {.column width=45%}
+![](images/favicons/biodiversity-data.png){width=30%}
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+![](images/favicons/artificial-intelligence.png){width=30%}
+:::
+
+::::
+
+<!-- row -->
+
+:::: {.columns}
+
+::: {.column width=45%}
 ::: {.small}
-{{< fa globe >}}&nbsp; <https://biodiversitydata.github.io>
+**La donnée en biodiversité : de l’acquisition à l’ouverture** &nbsp; [{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/se-perfectionner/la_donnee_en_biodiversite/)
+
+**`#cycle-de-vie`** &nbsp; **`#fair-care`** &nbsp; **`#metadonnee`** &nbsp; **`#pgd`** &nbsp; **`#data-paper`**
+
+<br>
+
+- Coordinateur : **Nicolas Casajus**
+- Date de création : **2024**
+- Langue : **Français**
+- Intervenant·e·s : **10** (total)
+- Partenaires : **PNDB**, **GBIF France** & **DataShare**
+- Contenu disponible sur &nbsp; [{{< fa brands github >}}](https://biodiversitydata.github.io)
 :::
 :::
 
+::: {.column width=10%}
+:::
 
-::: {.column .center width=33%}
-![](images/favicons/artificial-intelligence.png){width=50%}
-
+::: {.column width=45%}
 ::: {.small}
-{{< fa globe >}}&nbsp; <https://ai-ecol.github.io>
+**L'IA pour les écologues : une boîte à outils** &nbsp; [{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/se-perfectionner/ia-pour-les-ecologues/)
+
+
+**`#machine-learning`** &nbsp; **`#(un)supervised-learning`** &nbsp; **`#deep-learning`**
+
+<br>
+
+- Coordinatrice : **Camille Coux**
+- Date de création : **2025**
+- Langue : **Anglais**
+- Intervenant·e·s : **10** (total)
+- Partenaires : **LIRMM**, **Inria**, **Institut Agro Montpellier**, **IRD** & **AMAP**
+- Contenu disponible sur &nbsp; [{{< fa brands github >}}](https://ai-ecol.github.io)
 :::
 :::
 
 ::::
 
-## `r n_of_students()` trained students
+
+
+
+## `r n_of_students()` participant·e·s depuis 2019
 
 <br/>
 
 ![](figures/number_of_trainees-0.png){width=90% fig-align='center'}
 
 
-## `r n_of_students()` trained students
+## `r n_of_students()` participant·e·s depuis 2019
 
 <br/>
 
 ![](figures/number_of_trainees-1.png){width=90% fig-align='center'}
+
+
+## `r n_of_students()` participant·e·s depuis 2019
+
+<br/>
+
+:::: {.columns}
+
+::: {.column width=33%}
+![](figures/number_of_trainees_reproducibility.png){width=100%}
+:::
+
+::: {.column width=33%}
+![](figures/number_of_trainees_theoretical-models.png){width=100%}
+:::
+
+::: {.column width=33%}
+![](figures/number_of_trainees_literature-synthesis.png){width=100%}
+:::
+
+::::
+
+<br><br>
+
+:::: {.columns}
+
+::: {.column width=33%}
+![](figures/number_of_trainees_network-analysis.png){width=100%}
+:::
+
+::: {.column width=33%}
+![](figures/number_of_trainees_biodiversity-data.png){width=100%}
+:::
+
+::: {.column width=33%}
+![](figures/number_of_trainees_artificial-intelligence.png){width=100%}
+:::
+
+::::
+
+
 
 
 ## `r n_of_preregistrations()` pre-registrations
@@ -124,224 +520,16 @@
 ![](figures/number_of_registrations.png){width=90% fig-align='center'}
 
 
+## `r n_of_speakers()` intervenant·e·s depuis 2019
 
-## 60 speakers
-
-
-:::: {.columns}
-
-::: {.column width=20%}
-
-::: {.small}
-- Anne-Sophie Archambeau &nbsp; [&#9209;]{.color-data}
-- Matthieu Barbier &nbsp; [&#9209;]{.color-theo}
-- Pierre Barbillon &nbsp; [&#9209;]{.color-net}
-- Frédéric Barraquand &nbsp; [&#9209;]{.color-theo}
-- Damien Beillouin &nbsp; [&#9209;]{.color-meta}
-- Léo Blondel &nbsp; [&#9209;]{.color-ia}
-- Jonathan Bonfanti &nbsp; [&#9209;]{.color-meta}
-- Iago Bonnici &nbsp; [&#9209;]{.color-git}
-- Benjamin Bourel &nbsp; [&#9209;]{.color-ia}
-- Vincent Calcagno &nbsp; [&#9209;]{.color-theo}
-- Sylvie Campagne &nbsp; [&#9209;]{.color-meta}
-- Jérémy Carlot &nbsp; [&#9209;]{.color-meta}
-- Nicolas Casajus &nbsp; [&#9209;]{.color-git} [&#9209;]{.color-data} [&#9209;]{.color-meta}
-- Margot Challand &nbsp; [&#9209;]{.color-ia}
-- Julien Chiquet &nbsp; [&#9209;]{.color-net}
-- Camille Coux &nbsp; [&#9209;]{.color-data}
-- Kim Cuddington &nbsp; [&#9209;]{.color-theo}
-- Jhelam Deshpande &nbsp; [&#9209;]{.color-theo}
-- Sophie Donnet &nbsp; [&#9209;]{.color-net}
-- Stéphane Dray &nbsp; [&#9209;]{.color-git}
-:::
-:::
-
-::: {.column width=20%}
-:::
-
-::: {.column width=20%}
-::: {.small}
-- Maxime Dubart &nbsp; [&#9209;]{.color-theo}
-- Colin Fontaine &nbsp; [&#9209;]{.color-net}
-- Claire Fortunel &nbsp; [&#9209;]{.color-data}
-- Emanuel Fronhofer &nbsp; [&#9209;]{.color-theo}
-- Olivier Gimenez &nbsp; [&#9209;]{.color-git}
-- Frédéric Gosselin &nbsp; [&#9209;]{.color-meta}
-- Isabelle Gounand &nbsp; [&#9209;]{.color-theo}
-- Loreleï Guéry &nbsp; [&#9209;]{.color-git}
-- François Guilhaumon &nbsp; [&#9209;]{.color-git}
-- Claire Jacquet &nbsp; [&#9209;]{.color-theo}
-- Dimitri Justeau-Allaire &nbsp; [&#9209;]{.color-ia}
-- Peter Kamal &nbsp; [&#9209;]{.color-theo}
-- Sonia Kéfi &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
-- Joseph Langridge &nbsp; [&#9209;]{.color-meta}
-- Yvan Le Bras &nbsp; [&#9209;]{.color-data}
-- Nicolas Loiseau &nbsp; [&#9209;]{.color-data}
-- Titouan Lorieul &nbsp; [&#9209;]{.color-ia}
-- Davide Martinetti &nbsp; [&#9209;]{.color-theo}
-- François Massol &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
-- Catherine Matias &nbsp; [&#9209;]{.color-net}
-:::
-:::
-
-::: {.column width=20%}
-:::
-
-::: {.column width=20%}
-::: {.small}
-- Olivier Norvez &nbsp; [&#9209;]{.color-data}
-- Brunno F. Oliveira &nbsp; [&#9209;]{.color-git}
-- Sarah Ouadah &nbsp; [&#9209;]{.color-net}
-- Dakis-Yaoba Ouedraogo &nbsp; [&#9209;]{.color-meta}
-- Sophie Pamerlon &nbsp; [&#9209;]{.color-data}
-- Cathleen Petit &nbsp; [&#9209;]{.color-meta}
-- Quentin Petitjean &nbsp; [&#9209;]{.color-theo}
-- Virginie Ravigné &nbsp; [&#9209;]{.color-theo}
-- Agnès Robin &nbsp; [&#9209;]{.color-data}
-- Stéphane Robin &nbsp; [&#9209;]{.color-net}
-- Benjamin Rosenbaum &nbsp; [&#9209;]{.color-theo}
-- Camille Saade &nbsp; [&#9209;]{.color-theo}
-- Nina Schiettekatte &nbsp; [&#9209;]{.color-git}
-- Maximillien Servajean &nbsp; [&#9209;]{.color-ia}
-- Aurélie Siberchicot &nbsp; [&#9209;]{.color-git}
-- Romain Sordello &nbsp; [&#9209;]{.color-meta}
-- Léa Terray &nbsp; [&#9209;]{.color-meta}
-- Elisa Thébault &nbsp; [&#9209;]{.color-net}
-- Paul Tresson &nbsp; [&#9209;]{.color-ia}
-- Devi Veytia &nbsp; [&#9209;]{.color-meta}
-:::
-:::
-
-::::
-
-:::: {.columns}
-::: {.column width=50%}
-:::
-
-::: {.column .right width=50%}
-:::
-
-::::
+![](figures/list_of_speakers.png){width=100% fig-align='center'}
 
 
 
-## 60 speakers
-
-
-:::: {.columns}
-
-::: {.column width=20%}
-
-::: {.small}
-- Anne-Sophie Archambeau &nbsp; [&#9209;]{.color-data}
-- Matthieu Barbier &nbsp; [&#9209;]{.color-theo}
-- Pierre Barbillon &nbsp; [&#9209;]{.color-net}
-- Frédéric Barraquand &nbsp; [&#9209;]{.color-theo}
-- Damien Beillouin &nbsp; [&#9209;]{.color-meta}
-- Léo Blondel &nbsp; [&#9209;]{.color-ia}
-- Jonathan Bonfanti &nbsp; [&#9209;]{.color-meta}
-- Iago Bonnici &nbsp; [&#9209;]{.color-git}
-- Benjamin Bourel &nbsp; [&#9209;]{.color-ia}
-- Vincent Calcagno &nbsp; [&#9209;]{.color-theo}
-- Sylvie Campagne &nbsp; [&#9209;]{.color-meta}
-- Jérémy Carlot &nbsp; [&#9209;]{.color-meta}
-- Nicolas Casajus &nbsp; [&#9209;]{.color-git} [&#9209;]{.color-data} [&#9209;]{.color-meta}
-- Margot Challand &nbsp; [&#9209;]{.color-ia}
-- Julien Chiquet &nbsp; [&#9209;]{.color-net}
-- Camille Coux &nbsp; [&#9209;]{.color-data}
-- Kim Cuddington &nbsp; [&#9209;]{.color-theo}
-- Jhelam Deshpande &nbsp; [&#9209;]{.color-theo}
-- Sophie Donnet &nbsp; [&#9209;]{.color-net}
-- Stéphane Dray &nbsp; [&#9209;]{.color-git}
-:::
-:::
-
-::: {.column width=20%}
-:::
-
-::: {.column width=20%}
-::: {.small}
-- Maxime Dubart &nbsp; [&#9209;]{.color-theo}
-- Colin Fontaine &nbsp; [&#9209;]{.color-net}
-- Claire Fortunel &nbsp; [&#9209;]{.color-data}
-- Emanuel Fronhofer &nbsp; [&#9209;]{.color-theo}
-- Olivier Gimenez &nbsp; [&#9209;]{.color-git}
-- Frédéric Gosselin &nbsp; [&#9209;]{.color-meta}
-- Isabelle Gounand &nbsp; [&#9209;]{.color-theo}
-- Loreleï Guéry &nbsp; [&#9209;]{.color-git}
-- François Guilhaumon &nbsp; [&#9209;]{.color-git}
-- Claire Jacquet &nbsp; [&#9209;]{.color-theo}
-- Dimitri Justeau-Allaire &nbsp; [&#9209;]{.color-ia}
-- Peter Kamal &nbsp; [&#9209;]{.color-theo}
-- Sonia Kéfi &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
-- Joseph Langridge &nbsp; [&#9209;]{.color-meta}
-- Yvan Le Bras &nbsp; [&#9209;]{.color-data}
-- Nicolas Loiseau &nbsp; [&#9209;]{.color-data}
-- Titouan Lorieul &nbsp; [&#9209;]{.color-ia}
-- Davide Martinetti &nbsp; [&#9209;]{.color-theo}
-- François Massol &nbsp; [&#9209;]{.color-theo} [&#9209;]{.color-net}
-- Catherine Matias &nbsp; [&#9209;]{.color-net}
-:::
-:::
-
-::: {.column width=20%}
-:::
-
-::: {.column width=20%}
-::: {.small}
-- Olivier Norvez &nbsp; [&#9209;]{.color-data}
-- Brunno F. Oliveira &nbsp; [&#9209;]{.color-git}
-- Sarah Ouadah &nbsp; [&#9209;]{.color-net}
-- Dakis-Yaoba Ouedraogo &nbsp; [&#9209;]{.color-meta}
-- Sophie Pamerlon &nbsp; [&#9209;]{.color-data}
-- Cathleen Petit &nbsp; [&#9209;]{.color-meta}
-- Quentin Petitjean &nbsp; [&#9209;]{.color-theo}
-- Virginie Ravigné &nbsp; [&#9209;]{.color-theo}
-- Agnès Robin &nbsp; [&#9209;]{.color-data}
-- Stéphane Robin &nbsp; [&#9209;]{.color-net}
-- Benjamin Rosenbaum &nbsp; [&#9209;]{.color-theo}
-- Camille Saade &nbsp; [&#9209;]{.color-theo}
-- Nina Schiettekatte &nbsp; [&#9209;]{.color-git}
-- Maximillien Servajean &nbsp; [&#9209;]{.color-ia}
-- Aurélie Siberchicot &nbsp; [&#9209;]{.color-git}
-- Romain Sordello &nbsp; [&#9209;]{.color-meta}
-- Léa Terray &nbsp; [&#9209;]{.color-meta}
-- Elisa Thébault &nbsp; [&#9209;]{.color-net}
-- Paul Tresson &nbsp; [&#9209;]{.color-ia}
-- Devi Veytia &nbsp; [&#9209;]{.color-meta}
-:::
-:::
-
-::::
-
-:::: {.columns}
-::: {.column width=50%}
-:::
-
-::: {.column .right width=50%}
-**Thank you very much :heart:**
-:::
-
-::::
-
-
-## Special thanks to
+## Merci beaucoup à
 
 <br/>
 
-![](figures/special-thanks.png){width=50% fig-align='center'}
-
-
-
-<!-- 
-
-## Average budget
-
-<br/>
-
-
-![](figures/course_costs.png){width=90% fig-align='center'}
-
--->
+![](figures/special-thanks.png){width=40% fig-align='center'}
 
 

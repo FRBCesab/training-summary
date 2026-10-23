@@ -10,7 +10,7 @@
 
 ## Install Dependencies (listed in DESCRIPTION) ----
 
-remotes::install_deps(upgrade = "never")
+pak::local_install_deps()
 
 
 ## Load Project Addins (R Functions and Packages) ----
@@ -23,7 +23,9 @@ pkgload::load_all()
 courses_timeline()
 students_evolution()
 students_evolution(FALSE)
+students_evolution_per_course()
 registrations_evolution()
+speaker_timeline()
 course_costs()
 prices_vs_registrations()
 

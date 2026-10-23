@@ -138,7 +138,7 @@ students_evolution <- function(inset = TRUE) {
       image = favicon,
       x = max(students$year) + 0.23,
       y = y_at,
-      size = 2
+      size = 3
     )
   }
 
@@ -158,7 +158,7 @@ students_evolution <- function(inset = TRUE) {
   text(years, students, students, pos = 3, cex = 1, font = 2)
 
   mtext(
-    text = "Cumulative number of trainees",
+    text = "Nombre cumulé de participant·e·s",
     side = 2,
     line = 2.2,
     cex = 1.4,
@@ -167,12 +167,12 @@ students_evolution <- function(inset = TRUE) {
 
   if (inset) {
     y <- y$"status"
-    y <- gsub("Etudiant\\.e", "PhD", y)
-    y <- gsub("Doctorant\\.e", "PhD", y)
-    y <- gsub("Chercheur\\.se", "Researchers", y)
-    y <- gsub("Post-doctorant\\.e", "Postdocs", y)
-    y <- gsub("Ingénieur\\.e", "Engineers", y)
-    y <- gsub("Autre", "Others", y)
+    y <- gsub("Etudiant\\.e", "Doctorant·e·s", y)
+    y <- gsub("Doctorant\\.e", "Doctorant·e·s", y)
+    y <- gsub("Chercheur\\.se", "Chercheur·euse·s", y)
+    y <- gsub("Post-doctorant\\.e", "Post-doctorant·e·s", y)
+    y <- gsub("Ingénieur\\.e", "Ingénieur·e·s", y)
+    y <- gsub("Autre", "Autres", y)
 
     y <- sort(table(y))
 
@@ -183,12 +183,11 @@ students_evolution <- function(inset = TRUE) {
     plot(
       0,
       type = "n",
-      xlim = c(0, max(y) + 10),
+      xlim = c(0, max(y) + 30),
       ylim = c(0.5, 5.5),
       axes = FALSE,
       ann = FALSE
     )
-    # box(which = "figure")
 
     axis(3, at = seq(0, max(y), by = 20), lwd = 0, lwd.ticks = 0)
 
